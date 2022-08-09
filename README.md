@@ -1,0 +1,2 @@
+# waypoint
+HashiCorp Waypoint Code
